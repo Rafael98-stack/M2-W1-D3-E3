@@ -6,7 +6,7 @@ p {
     font-size: 1.2rem;
 }
 body {
-    margin: 20px 20px 20px 20px ;
+    margin: 20px ;
     display: flex;
  
 }
@@ -19,8 +19,9 @@ main {
    flex-direction: column;
     background-color: #fef7e2;
     position: fixed;
- margin-right: 20px;
+ 
    border-radius: 30px;
+   height: 100%;
 }
 .navigation-bar h3 {
     margin: 50%;
